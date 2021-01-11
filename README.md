@@ -6,6 +6,7 @@
   * iOS Engineering
   * Front and Back end engineering
   * DevOps
+  * Machine learning 🤖
   * Sleep (LMAO)
   
 - 💻 My portfolio website is https://jaimejazarenoiii.me/. This one is using github pages and some basic front end implementation
