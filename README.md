@@ -1,27 +1,23 @@
 ### Hi there 👋
 
-### I'm a full stack engineer. I know
+### I'm a full stack engineer and a happy family man living in Cebu PH with my wife and son. 👨‍👩‍👦
+
+### Things I can do:
   * iOS Engineering
   * Front and Back end engineering
   * DevOps
+  * Sleep (LMAO)
   
 - 💻 My portfolio website is https://jaimejazarenoiii.me/. This one is using github pages and some basic front end implementation
 - 📫 How to reach me: 
   * 📧 contact@jaimejazarenoiii.me
-  * Twitter: [@jjazarenoiii](https://twitter.com/jjazarenoiii)
+  * <a href="https://www.linkedin.com/in/jaime-jazareno-2bb461140/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  * <a href="https://img.shields.io/twitter/follow/jjazarenoiii?label=Follow&style=social" target="_blank"><img src="" alt="Twitter"></a>
   * Instagram: [@jaimewave](https://instagram.com/jaimewave)
 
-<!--
-**jaimejazarenoiii/jaimejazarenoiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Jaime Jazareno III's github stats](https://github-readme-stats.vercel.app/api?username=jaimejazarenoiii&show_icons=true&theme=dracula&hide_border=true&show_icons=true&count_private=true&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimejazarenoiii&layout=compact&show_icons=true&theme=dracula)](https://github.com/jaimejazarenoiii/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Doings:
+[![Jaime Jazareno III's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaimejazarenoiii)](https://github.com/jaimejazarenoiii/github-readme-stats&hide_border=true&show_icons=true)
