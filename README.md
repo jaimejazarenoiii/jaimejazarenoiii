@@ -16,7 +16,7 @@
   * Instagram: [@jaimewave](https://instagram.com/jaimewave)
 
 
-[![Jaime Jazareno III's github stats](https://github-readme-stats.vercel.app/api?username=jaimejazarenoiii&show_icons=true&theme=dracula&hide_border=true&show_icons=true&count_private=true&line_height=27)
+![Jaime Jazareno III's github stats](https://github-readme-stats.vercel.app/api?username=jaimejazarenoiii&show_icons=true&theme=dracula&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimejazarenoiii&layout=compact&show_icons=true&theme=dracula)](https://github.com/jaimejazarenoiii/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 ### Recent Doings:
