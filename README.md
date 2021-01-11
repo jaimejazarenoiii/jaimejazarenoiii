@@ -11,7 +11,7 @@
 - 💻 My portfolio website is https://jaimejazarenoiii.me/. This one is using github pages and some basic front end implementation
 - 📫 How to reach me: 
   * 📧 contact@jaimejazarenoiii.me
-  * <a href="https://www.linkedin.com/in/jaime-jazareno-2bb461140/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  * <a href="https://www.linkedin.com/in/jaime-jazareno-2bb461140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   * <a href="https://img.shields.io/twitter/follow/jjazarenoiii?label=Follow&style=social" target="_blank"><img src="" alt="Twitter"></a>
   * Instagram: [@jaimewave](https://instagram.com/jaimewave)
 
