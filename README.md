@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
   * 📧 contact@jaimejazarenoiii.me
   * <a href="https://www.linkedin.com/in/jaime-jazareno-2bb461140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  * <a href="https://twitter.com/jjazarenoiii" target="_blank"><img src="https://img.shields.io/twitter/follow/jjazarenoiii?label=Follow&style=social" alt="Twitter"></a>
+  * <a href="https://twitter.com/jjazarenoiii" target="_blank"><img src="https://img.shields.io/twitter/follow/jjazarenoiii?label=Follow&style=social" alt="Twitter"></a><a href="https://twitter.com/jaimejazareno" target="_blank"><img src="https://img.shields.io/twitter/follow/jaimejazareno?label=Follow&style=social" alt="Twitter"></a>
   * Instagram: [@jaimewave](https://instagram.com/jaimewave)
 
 
