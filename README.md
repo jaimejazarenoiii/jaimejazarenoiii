@@ -9,7 +9,7 @@
   * Machine learning 🤖
   * Sleep (LMAO)
   
-- 💻 My portfolio website is https://jaimejazarenoiii.me/. This one is using github pages and some basic front end implementation
+- 💻 My portfolio website is https://jaimejazarenoiii.me/.
 - 📫 How to reach me: 
   * 📧 contact@jaimejazarenoiii.me
   * <a href="https://www.linkedin.com/in/jaime-jazareno-2bb461140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
