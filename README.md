@@ -7,6 +7,7 @@
   * Front and Back end engineering
   * DevOps
   * Machine learning 🤖
+  * Flutter development
   * Sleep (LMAO)
   
 - 💻 My portfolio website is https://jaimejazarenoiii.me/.
